@@ -1,6 +1,6 @@
 {
-  "name": "com.ugf.core",
-  "displayName": "UGF Core",
+  "name": "com.ugf.gameframework",
+  "displayName": "UGF.GameFramework",
   "category": "UGF",
   "description": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
   "version": "1.0.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/noah-zll/UGF.Core.git",
+    "url": "git@github.com/noah-zll/UGF.GameFramework.git",
     "revision": "9e04764c9098106a83b5110923d4acf1b1a13344"
   }
 }
